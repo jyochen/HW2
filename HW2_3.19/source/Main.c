@@ -17,7 +17,7 @@ int main() {
         // 輸出利息
         printf("The interest charge is $%.2f\n", interest);
 
-        // 輸入下一筆貸款數據
+        
         printf("Enter loan principal (-1 to end): ");
     }
 

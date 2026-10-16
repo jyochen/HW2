@@ -9,7 +9,7 @@ int main() {
         printf("Enter hourly rate of the worker ($00.00): ");
         scanf_s("%lf", &hourlyRate);
 
-        // ≠p∫‚¡~§Ù
+       
         if (hoursWorked <= 40) {
             salary = hoursWorked * hourlyRate;
         }

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c_code\\HW2_3.33\\3.33\\",
+  "WorkspaceRootPath": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_3.33\\3.33\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4A45BCF-24C0-4EA5-B3AA-D61EE8CD9BC6}|3.33\\3.33.vcxproj|C:\\c_code\\HW2_3.33\\3.33\\3.33\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C4A45BCF-24C0-4EA5-B3AA-D61EE8CD9BC6}|3.33\\3.33.vcxproj|C:\\Users\\CNC\\Desktop\\HW2\\HW2_3.33\\3.33\\3.33\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C4A45BCF-24C0-4EA5-B3AA-D61EE8CD9BC6}|3.33\\3.33.vcxproj|solutionrelative:3.33\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\c_code\\HW2_3.33\\3.33\\3.33\\Main.c",
+              "DocumentMoniker": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_3.33\\3.33\\3.33\\Main.c",
               "RelativeDocumentMoniker": "3.33\\Main.c",
-              "ToolTip": "C:\\c_code\\HW2_3.33\\3.33\\3.33\\Main.c",
+              "ToolTip": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_3.33\\3.33\\3.33\\Main.c",
               "RelativeToolTip": "3.33\\Main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-23T19:27:10.678Z",
               "EditorCaption": ""

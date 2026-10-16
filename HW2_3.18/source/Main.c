@@ -11,7 +11,7 @@ int main() {
         // 輸出薪水
         printf("Salary is: $%.2f\n", salary);
 
-        // 輸入下一筆銷售數據
+        
         printf("Enter sales in dollars (-1 to end): ");
     }
 

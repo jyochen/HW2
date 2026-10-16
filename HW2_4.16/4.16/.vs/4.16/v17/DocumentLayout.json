@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\c_code\\HW2_4.16\\4.16\\",
+  "WorkspaceRootPath": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_4.16\\4.16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20509CF2-5BEF-4CF6-B976-469FF14D972B}|4.16\\4.16.vcxproj|C:\\c_code\\HW2_4.16\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{20509CF2-5BEF-4CF6-B976-469FF14D972B}|4.16\\4.16.vcxproj|C:\\Users\\CNC\\Desktop\\HW2\\HW2_4.16\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\c_code\\HW2_4.16\\source\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +22,29 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.c",
-              "DocumentMoniker": "C:\\c_code\\HW2_4.16\\source\\Main.c",
+              "DocumentMoniker": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_4.16\\source\\Main.c",
               "RelativeDocumentMoniker": "..\\source\\Main.c",
-              "ToolTip": "C:\\c_code\\HW2_4.16\\source\\Main.c",
+              "ToolTip": "C:\\Users\\CNC\\Desktop\\HW2\\HW2_4.16\\source\\Main.c",
               "RelativeToolTip": "..\\source\\Main.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-23T19:36:27.945Z",
+              "WhenOpened": "2026-10-16T02:51:48.403Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.c",
+              "DocumentMoniker": "C:\\c_code\\HW2_4.16\\source\\Main.c",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\c_code\\HW2_4.16\\source\\Main.c",
+              "ToolTip": "C:\\c_code\\HW2_4.16\\source\\Main.c",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\c_code\\HW2_4.16\\source\\Main.c",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-23T19:36:27.945Z"
             }
           ]
         }
