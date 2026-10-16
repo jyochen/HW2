@@ -16,7 +16,7 @@ int main() {
         printf("Enter beginning balance: ");
         if (scanf_s("%lf", &beginningBalance) != 1) {
             printf("Invalid input!\n");
-            return 1;  // 若輸入無效，退出程式
+            return 1;  // 若輸入無效
         }
 
         printf("Enter total charges: ");
